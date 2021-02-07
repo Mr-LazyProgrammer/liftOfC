@@ -31,7 +31,7 @@ int main()
         printf("Grade D");
     } else if( percent >= 50){
         printf("Grade E");
-    } else if( percent >= 40){
+    } else {
         printf("Grade F");
     }
 }
